@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "metasploit_data_models/version"
 
 Gem::Specification.new do |s|
-  s.name        = "metasploit_data_models"
+  s.name        = "metasploit-data-models"
   s.version     = MetasploitDataModels::VERSION
   s.authors     = ["Trevor Rosen"]
   s.email       = ["trevor_rosen@rapid7.com"]
